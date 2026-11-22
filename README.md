@@ -62,7 +62,7 @@ The workflow is designed for immediate execution without repetitive configuratio
 
 ## Confidentiality Notice & B2B Inquiries
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & technical video demos; full English B2B communication and delivery*). For operational security and NDA compliance, the source code and server mapping configurations are not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
 🤝 **Custom Automation & White-Label Licensing:** Available for custom deployment pipelines, Linux/VPS infrastructure automation, and asynchronous technical consulting (zero-call workflow). Connect via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
